@@ -1,0 +1,10 @@
+C:\ParkingChargeCalculator\ParkingChargeCalculator\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.deps.json
+C:\ParkingChargeCalculator\ParkingChargeCalculator\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.runtimeconfig.json
+C:\ParkingChargeCalculator\ParkingChargeCalculator\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.runtimeconfig.dev.json
+C:\ParkingChargeCalculator\ParkingChargeCalculator\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.dll
+C:\ParkingChargeCalculator\ParkingChargeCalculator\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.pdb
+C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.csproj.CoreCompileInputs.cache
+C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.AssemblyInfoInputs.cache
+C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.AssemblyInfo.cs
+C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.dll
+C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.pdb

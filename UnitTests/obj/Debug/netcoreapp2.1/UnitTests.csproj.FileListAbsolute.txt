@@ -1,0 +1,17 @@
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.dll
+C:\ParkingChargeCalculator\UnitTests\bin\Debug\netcoreapp2.1\ParkingChargeCalculator.pdb
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+C:\ParkingChargeCalculator\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
