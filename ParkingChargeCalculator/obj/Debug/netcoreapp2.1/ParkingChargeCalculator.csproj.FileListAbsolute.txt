@@ -8,3 +8,4 @@ C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\Parki
 C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.AssemblyInfo.cs
 C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.dll
 C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.pdb
+C:\ParkingChargeCalculator\ParkingChargeCalculator\obj\Debug\netcoreapp2.1\ParkingChargeCalculator.csprojAssemblyReference.cache

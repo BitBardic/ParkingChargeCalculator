@@ -4,18 +4,19 @@ namespace ParkingChargeCalculator
 {
     public class DateTimeHelper
     {
-        public static int CalculateWeekDayHours(DateTime StartDate, DateTime EndDate)
+        public static int CalculateWeekDayHours(DateTime startDate, DateTime endDate)
         {
             int hourCount = 0;
-            var totalHours = EndDate.Subtract(StartDate).TotalHours;
+
+            var totalHours = endDate.Subtract(startDate).TotalHours;
             if (totalHours < 1)
                 return hourCount;
 
-            for (var i = StartDate; i < EndDate; i = i.AddHours(1))
+            for (var i = startDate; i < endDate; i = i.AddHours(1))
             {
                 if (i.DayOfWeek != DayOfWeek.Saturday && i.DayOfWeek != DayOfWeek.Sunday)
                 {
-                    if (i.TimeOfDay.Hours >= 8 && i.TimeOfDay.Hours <= 18)
+                    if (i.TimeOfDay.Hours >= 8 && i.TimeOfDay.Hours < 18)
                     {
                         hourCount++;
                     }
@@ -25,25 +26,43 @@ namespace ParkingChargeCalculator
             return hourCount;
         }
 
-        public static DateTime AdjustDateHourMinute(DateTime Date)
+        public static DateTime AdjustDateHourMinute(DateTime dateTime)
         {
-            if (Date.Hour >= 18 && Date.Minute >= 0)
+            if (dateTime.Hour >= 18 && dateTime.Minute >= 0)
             {
-                return new DateTime(Date.Year, Date.Month, Date.Day, 18, 0, 0);
+                return new DateTime(dateTime.Year, dateTime.Month, dateTime.Day, 18, 0, 0);
 
             }
 
-            if (Date.Hour <= 8 && Date.Minute <= 0)
+            if (dateTime.Hour <= 8 && dateTime.Minute <= 0)
             {
-                return new DateTime(Date.Year, Date.Month, Date.Day, 8, 0, 0);
+                return new DateTime(dateTime.Year, dateTime.Month, dateTime.Day, 8, 0, 0);
             }
 
-            return Date;
+            return dateTime;
         }
 
-        public static int CalculateDays(DateTime StartDate, DateTime EndDate)
+        public static int CalculateDays(DateTime startDate, DateTime endDate)
         {
-            return (EndDate.Date - StartDate.Date).Days + 1;
+            return (endDate.Date - startDate.Date).Days + 1;
+        }
+
+        public static DateTime RoundedHour(DateTime dateTime, int minutes)
+        {
+            var i = 0;
+            var dateTimeMinutes = dateTime.Minute;
+            while (i < minutes)
+            {
+                dateTimeMinutes += 1;
+                i++;
+                if (dateTimeMinutes % 60 == 0)
+                { 
+                   dateTime = dateTime.AddMinutes(i);
+                   return dateTime;
+                }
+            }
+
+            return dateTime;
         }
 
     }

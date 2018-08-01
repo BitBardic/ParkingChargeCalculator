@@ -681,7 +681,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\niqbal\\.nuget\\packages\\": {},
+    "C:\\Users\\Nasir\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -690,14 +690,14 @@
       "projectUniqueName": "C:\\ParkingChargeCalculator\\ParkingChargeCalculator\\ParkingChargeCalculator.csproj",
       "projectName": "ParkingChargeCalculator",
       "projectPath": "C:\\ParkingChargeCalculator\\ParkingChargeCalculator\\ParkingChargeCalculator.csproj",
-      "packagesPath": "C:\\Users\\niqbal\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Nasir\\.nuget\\packages\\",
       "outputPath": "C:\\ParkingChargeCalculator\\ParkingChargeCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\niqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nasir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -705,8 +705,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\scotty\\NuGet\\packages": {},
-        "http://nuget.ecomscotland.local/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

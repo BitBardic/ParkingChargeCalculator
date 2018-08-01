@@ -18,6 +18,9 @@ namespace ParkingChargeCalculator
 
             var MinutelyCharges = decimal.Round((minutes * PerMinuteCharge) / 100, 2, MidpointRounding.AwayFromZero);
 
+            aSDateTime = DateTimeHelper.RoundedHour(aSDateTime, minutes);
+            aEDateTime = DateTimeHelper.RoundedHour(aEDateTime, minutes);
+
             var WeekDayHours = DateTimeHelper.CalculateWeekDayHours(aSDateTime, aEDateTime);
 
             var HourlyCharges = WeekDayHours * PerHourCharge;

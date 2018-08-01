@@ -2816,7 +2816,7 @@
       ]
     },
     "System.Collections.Specialized/4.0.1": {
-      "sha512": "Qh74c9ICX74RQzZ+x3G6Vq0PXxvoSs9IOuleLTtqNDukOAunDq6I3l0SS5nwaVZEULjcL0mVzJFp+PhXP8QmlQ==",
+      "sha512": "/HKQyVP0yH1I0YtK7KJL/28snxHNH/bi+0lgk/+MbURF6ULhAE31MDI+NZDerNWu264YbxklXCCygISgm+HMug==",
       "type": "package",
       "path": "system.collections.specialized/4.0.1",
       "files": [
@@ -2978,7 +2978,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.1.0": {
-      "sha512": "8191X82B0PrAxs97O3ucb5yeMitfjNWvpnRZ3+veDVzAQV2mkw4RwFUxK/fPo9eTj23/0jQXEj95hvrZADcyPQ==",
+      "sha512": "sc/7eVCdxPrp3ljpgTKVaQGUXiW05phNWvtv/m2kocXqrUQvTVWKou1Edas2aDjTThLPZOxPYIGNb/HN0QjURg==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.1.0",
       "files": [
@@ -3015,7 +3015,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.1.0": {
-      "sha512": "5Oo2SHo+IGmYaTAuJZMLqe2FculYkltg7CwpsN1fEmbJGiCHnVRLwZGz21tHuqVUQeDae0CPuHjK50At+cXnOw==",
+      "sha512": "MnDAlaeJZy9pdB5ZdOlwdxfpI+LJQ6e0hmH7d2+y2LkiD8DRJynyDYl4Xxf3fWFm7SbEwBZh4elcfzONQLOoQw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.1.0",
       "files": [
@@ -5727,7 +5727,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\niqbal\\.nuget\\packages\\": {},
+    "C:\\Users\\Nasir\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5736,14 +5736,14 @@
       "projectUniqueName": "C:\\ParkingChargeCalculator\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
       "projectPath": "C:\\ParkingChargeCalculator\\UnitTests\\UnitTests.csproj",
-      "packagesPath": "C:\\Users\\niqbal\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Nasir\\.nuget\\packages\\",
       "outputPath": "C:\\ParkingChargeCalculator\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\niqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nasir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5751,8 +5751,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\scotty\\NuGet\\packages": {},
-        "http://nuget.ecomscotland.local/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
